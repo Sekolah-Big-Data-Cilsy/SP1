@@ -1,3 +1,4 @@
+:item,invoiceID,userID,amount,notes,paymentStatus,date
 1,INVCLSYLFY0001,2,65000,NULL,Successfully captured using credit_card,2017-03-30 09:21:53
 1,INVCLSYLFY0002,2,65000,NULL,Waiting customer to finish transaction using bank_transfer,2017-03-30 09:44:38
 2,INVCLSYLFY0003,5,65000,NULL,Waiting customer to finish transaction using bank_transfer,2017-03-30 10:01:35
